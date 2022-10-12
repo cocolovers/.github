@@ -2,5 +2,4 @@
 
 Just two friends that love code together.
 
-Feel free to use them as you want.
-
+Feel free to use our projets as you wish.
